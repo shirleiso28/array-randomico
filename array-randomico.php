@@ -1,6 +1,6 @@
 <?php
 
-function ArraySortido(){
+function ArrayRandomico(){
 
 	$array;
 
@@ -25,5 +25,5 @@ function ArraySortido(){
 
 }
 
-ArraySortido();
+ArrayRandomico();
 ?>
